@@ -1,9 +1,9 @@
-# 🎉 PROYECTO FINALIZADO - Dataset Tabla Periódica v3.0
+# Dataset Tabla Periódica v3.0
 
 > **Dataset químico más completo:** 130 elementos (118 reales + 12 predichos)  
-> **Desarrollado por:** Maximiliano Rodrigo Speranza & Gemini AI
+> **Desarrollado por:** Maximiliano Rodrigo Speranza
 > **Fecha:** 2026-01-18
-> **Tiempo total:** ~3.5 horas (modo YOLO) 🚀
+> **Tiempo total:** ~3.5 horas
 
 ---
 
@@ -105,26 +105,6 @@ console.log(`Oro: ${gold.atomic_properties.atomic_mass} u`);
 
 ## 📈 EVOLUCIÓN DEL PROYECTO
 
-### Versión 1.0 (Base)
-- ✅ 118 elementos procesados
-- ✅ 5 scripts de procesamiento
-- ❌ 0% configuraciones electrónicas
-- ❌ 0% datos cuánticos
-- **Cobertura: 87%**
-
-### Versión 2.0 (Configuraciones)
-- ✅ Generador automático de configuraciones
-- ✅ 100% configuraciones electrónicas (118/118)
-- ✅ 100% datos cuánticos (118/118)
-- ✅ Reducción del 72% en campos faltantes
-- **Cobertura: 95%**
-
-### Versión 2.1 (Extrapolación)
-- ✅ Extrapolador de electronegatividad
-- ✅ 5 gases nobles con Pauling calculado
-- ✅ Reducción adicional del 15% en faltantes
-- **Cobertura: 97%**
-
 ### Versión 3.0 (Predicción) ⭐ ACTUAL
 - ✅ Motor de predicción superheavy
 - ✅ 12 elementos Z=119-130 predichos
@@ -196,19 +176,6 @@ data.elements.forEach(elem => {
 
 ---
 
-## 🛠️ REGENERAR EL DATASET
-
-```bash
-cd "/home/maxi/Disco_de_Guardado/Gems de Quimica/DataSet Tabla Pariodica"
-
-# Paso 1: Generar elementos reales (118)
-venv/bin/python generate_periodic_table.py
-
-# Paso 2: Predecir elementos superheavy (119-130)
-venv/bin/python scripts/predict_superheavy_elements.py
-
-# Paso 3: Consolidar dataset maestro
-venv/bin/python consolidate_master_dataset.py
 
 # Resultado: tabla_periodica_MASTER.json (269 KB, 130 elementos)
 ```
@@ -256,7 +223,7 @@ https://github.com/SperanzaMax/dataset-tabla-periodica-json
 ## 📞 SOPORTE
 
 Para consultas sobre el dataset:
-- 📧 Email: maxirodrigosperanza@gmail.com
+- 📧 Email: maximiliano.speranza@gmail.com
 - 📂 Repositorio: https://github.com/SperanzaMax/dataset-tabla-periodica-json
 - 📝 Issues: https://github.com/SperanzaMax/dataset-tabla-periodica-json/issues
 
@@ -266,7 +233,7 @@ Para consultas sobre el dataset:
 
 **⭐ Si este dataset te resulta útil, considera darle una estrella en GitHub! ⭐**
 
-**Desarrollado con ❤️ por Maximiliano Rodrigo Speranza & Gemini AI**
+**Desarrollado con ❤️ por Maximiliano Rodrigo Speranza & AI**
 
 *Última actualización: 2026-01-18 20:59:00*
 
