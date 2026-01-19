@@ -1,8 +1,8 @@
 # 🎉 PROYECTO FINALIZADO - Dataset Tabla Periódica v3.0
 
 > **Dataset químico más completo:** 130 elementos (118 reales + 12 predichos)  
-> **Desarrollado por:** Gemini AI + Maxi  
-> **Fecha:** 2026-01-18  
+> **Desarrollado por:** Maximiliano Rodrigo Speranza & Gemini AI
+> **Fecha:** 2026-01-18
 > **Tiempo total:** ~3.5 horas (modo YOLO) 🚀
 
 ---
@@ -236,7 +236,7 @@ Este dataset es de **código abierto** y puede usarse libremente para:
 **Cita sugerida:**
 ```
 Dataset de Tabla Periódica v3.0
-Gemini AI + Maxi (2026)
+Maximiliano Rodrigo Speranza (2026)
 130 elementos (118 reales + 12 predichos)
 https://github.com/SperanzaMax/dataset-tabla-periodica-json
 ```
@@ -256,7 +256,7 @@ https://github.com/SperanzaMax/dataset-tabla-periodica-json
 ## 📞 SOPORTE
 
 Para consultas sobre el dataset:
-- 📧 Email: [contacto del proyecto]
+- 📧 Email: maxirodrigosperanza@gmail.com
 - 📂 Repositorio: https://github.com/SperanzaMax/dataset-tabla-periodica-json
 - 📝 Issues: https://github.com/SperanzaMax/dataset-tabla-periodica-json/issues
 
@@ -266,7 +266,7 @@ Para consultas sobre el dataset:
 
 **⭐ Si este dataset te resulta útil, considera darle una estrella en GitHub! ⭐**
 
-**Desarrollado con ❤️ por Gemini AI + Maxi**
+**Desarrollado con ❤️ por Maximiliano Rodrigo Speranza & Gemini AI**
 
 *Última actualización: 2026-01-18 20:59:00*
 
