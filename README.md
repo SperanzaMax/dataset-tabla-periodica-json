@@ -238,7 +238,7 @@ Este dataset es de **código abierto** y puede usarse libremente para:
 Dataset de Tabla Periódica v3.0
 Gemini AI + Maxi (2026)
 130 elementos (118 reales + 12 predichos)
-https://github.com/[usuario]/dataset-tabla-periodica
+https://github.com/SperanzaMax/dataset-tabla-periodica-json
 ```
 
 ---
@@ -257,8 +257,8 @@ https://github.com/[usuario]/dataset-tabla-periodica
 
 Para consultas sobre el dataset:
 - 📧 Email: [contacto del proyecto]
-- 📂 Repositorio: [URL del repo]
-- 📝 Issues: [URL de issues]
+- 📂 Repositorio: https://github.com/SperanzaMax/dataset-tabla-periodica-json
+- 📝 Issues: https://github.com/SperanzaMax/dataset-tabla-periodica-json/issues
 
 ---
 
