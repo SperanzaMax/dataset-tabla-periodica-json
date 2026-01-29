@@ -1,5 +1,10 @@
 # Dataset Tabla Periódica v3.0
 
+> **🇬🇧 English Summary:** High-precision Periodic Table JSON dataset containing 130 elements (118 real + 12 predicted). Designed for Machine Learning and computational chemistry research.
+
+> **🇪🇸 Resumen:** Dataset JSON de alta precisión para la tabla periódica con 130 elementos. Ideal para investigación en Machine Learning y química computacional.
+
+
 > **Dataset químico más completo:** 130 elementos (118 reales + 12 predichos)  
 > **Desarrollado por:** Maximiliano Rodrigo Speranza
 > **Fecha:** 2026-01-18
